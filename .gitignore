@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.sqlite3
+
+# Virtual Environments (including your specific one)
+chatEnv/
+**/chatEnv/
+**/env/
+**/venv/
+**/ENV/
+**/.venv/
+
+# Python tooling
+.mypy_cache/
+.pytest_cache/
+coverage/
+
+# Node/Frontend
+node_modules/
+build/
+dist/
+
+# Editors and IDEs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Env variables
+.env
+.env.*
+
