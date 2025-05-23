@@ -1,4 +1,4 @@
-# 🤖 AI Friend – Chatbot Companion Web App
+# 🤖 Toothless – A friendly ChatBot
 
 AI Friend is a friendly web-based chatbot that:
 - Listens to your rants 😤
@@ -8,7 +8,7 @@ AI Friend is a friendly web-based chatbot that:
 
 
 
-##🏗️ Project Structure
+# 🏗️ Project Structure
 
 ├── frontend/ # Frontend (HTML/CSS/JS or React)
 ├── backend/ # FastAPI backend with emotion detection
@@ -17,7 +17,7 @@ AI Friend is a friendly web-based chatbot that:
 
 
 
-## 🚀 How to Run
+# 🚀 How to Run
 
 ### Backend (FastAPI)
 ```bash
